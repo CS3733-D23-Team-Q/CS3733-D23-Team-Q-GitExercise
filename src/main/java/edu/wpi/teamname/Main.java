@@ -7,5 +7,5 @@ public class Main {
   }
 
   // shortcut: psvm
-
+  System.out.print("Josh");
 }
