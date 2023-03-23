@@ -8,7 +8,6 @@ public class Main {
     System.out.print("Cameron Robbins");
     System.out.print("Josh");
     System.out.print("Dov");
-
     System.out.println("Kelu Liu");
     System.out.println("Cameron Robbins");
     System.out.println("Josh");
